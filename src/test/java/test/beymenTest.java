@@ -79,6 +79,6 @@ public class beymenTest extends baseTest {
     */
     @After
     public void driverQuit() throws InterruptedException {
-       // tearDown();
+        tearDown();
     }
 }
