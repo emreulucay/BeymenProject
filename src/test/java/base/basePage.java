@@ -15,6 +15,7 @@ public class basePage {
     public logger logger = new logger();
     public WebDriver driver = null;
     public WebDriverWait wait = null;
+
     public basePage(WebDriver driver){
         this.driver = driver;
         this.wait = new WebDriverWait(driver,Duration.ofSeconds(5));

@@ -10,7 +10,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 
 import static locaters.locaters.*;
@@ -21,20 +20,18 @@ public class searchPage extends basePage {
     public searchPage(WebDriver driver) {
         super(driver);
     }
-    public searchPage moveToSearch(){
-        hoverElement(SEARCH_AREA);
-        return this;
-    }
     public searchPage search(String text){
         sendKeys(SEARCH_AREA, text);
         return this;
     }
     public searchPage deleteSearchArea() throws InterruptedException {
+
         Thread.sleep(4000);
         while (!elementSearch.getAttribute("value").equals("")) {
-            elementSearch.sendKeys(Keys.BACK_SPACE);
+                elementSearch.sendKeys(Keys.BACK_SPACE);
         }
         logger.INFO("Şort kelimesi silindi, gömlek kelimesi yazılacak");
+
         return this;
     }
     public searchPage pressEnter() throws InterruptedException {
@@ -54,7 +51,7 @@ public class searchPage extends basePage {
             Cell cell = row.getCell(cellnum);
 
             cellText = cell.toString() ;
-            logger.INFO("excelden alinan veri : "+cellText+" arama barına yazdırılıyor");
+            logger.INFO("Excelden alinan veri : "+cellText+" arama barına yazdırılıyor");
 
             return this;
     }

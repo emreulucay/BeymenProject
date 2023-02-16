@@ -4,13 +4,11 @@ import locaters.locaters;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
-
 import static locaters.locaters.*;
 
 public class addBasketPage extends basePage {
     locaters locater = new locaters();
     public addBasketPage(WebDriver driver) {
-
         super(driver);
     }
     static String productSizeOfCount;
@@ -19,8 +17,6 @@ public class addBasketPage extends basePage {
         for (int i = 1; i < 4; i++) {
 
             try {
-//        randomSize = randomNumber(productSizeOfCount);
-//        String number = String.valueOf(randomSize);
                 Thread.sleep(2000);
                 productSizeOfCount = String.valueOf(i);
                 locater.getRandomSize(productSizeOfCount);
@@ -58,7 +54,6 @@ public class addBasketPage extends basePage {
     }
     public addBasketPage goToBasket() throws InterruptedException {
         try {
-
             Thread.sleep(5000);
             click(BASKET);
             logger.INFO("Sepete gidildi");
@@ -77,7 +72,8 @@ public class addBasketPage extends basePage {
         Thread.sleep(3000);
         logger.INFO("Liste fiyatı: "+productSelectPage.priceInfo);
         try {
-            Control(priceOfBasket.equals(productSelectPage.priceInfo),"fiyatlar aynı" ,"fiyatlar farklı");
+            Control(priceOfBasket.equals(productSelectPage.priceInfo),"fiyatlar aynı" ,
+                    "fiyatlar farklı");
         }
         catch (Exception e){
             logger.ERROR("Seçilen Urunun SEPET Fiyatı ve LISTE Fiyatı karşılaştırılamadı !!");
@@ -110,15 +106,15 @@ public class addBasketPage extends basePage {
         Control(elementQuantity.equals("2"), "Urunün 2 adet olarak seçildiği kontrol edildi ",
                 "Adet kontrolü yapıldı: 1 adet -stok olmadığı için 2 adet seçilemedi");
 
-
         return this;
     }
     public addBasketPage cleanAndControlBasket(){
 
         click(DELETE_PRODUCT);
         WebElement emptyBasket = driver.findElement(IS_BASKET_EMPTY);
+
         if (emptyBasket.isDisplayed()) {
-            logger.INFO("Sepet Boşaltıldığı kontrol edildi");
+            logger.INFO("Sepetin boşaltıldığı kontrol edildi");
         } else {
             logger.INFO("Sepetteki ürün silinemedi");
         }

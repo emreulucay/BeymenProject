@@ -17,8 +17,6 @@ public class baseTest {
                 options.addArguments("disable-popup-blocking");
                 setWebDriver(new ChromeDriver(options));
                 getWebDriver().navigate().to("https://www.beymen.com/");
-
-
         }
 
         public static WebDriver getWebDriver() {

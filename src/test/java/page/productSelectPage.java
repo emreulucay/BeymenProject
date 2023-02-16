@@ -7,7 +7,6 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-
 import static locaters.locaters.*;
 
 public class productSelectPage extends basePage {
@@ -18,7 +17,8 @@ public class productSelectPage extends basePage {
     public static int randomNumber;
 
     public productSelectPage productSelectOfList() throws InterruptedException {
-        int productCountOfList = 48; //listedeki ürün sayısı
+
+        int productCountOfList = 30; //listedeki ürün sayısı manuel girildi
         logger.INFO("Listedeki Urun Sayisi = " + productCountOfList);
         randomNumber = randomNumber(productCountOfList);
         logger.INFO("Listeden rastgele seçilecek ürün sıra no = " + randomNumber);
@@ -27,23 +27,28 @@ public class productSelectPage extends basePage {
         locater.getRandomNumber(number);
         click(PRODUCT_TO_CHOOSE);
         logger.INFO("Listeden rastgele seçilen ürüne tıklandı.");
+
         return this;
     }
 
-    static String productInfo;
-    public static String priceInfo;
+   static String productInfo;
+   public static String priceInfo;
    public static String productDescription;
 
     public productSelectPage productInfoAndPrice() throws InterruptedException {
+
         productInfo = getText(PRODUCT_INFO);
         priceInfo = getText(PRICE_INFO);
         productDescription = priceInfo +" --- "+ productInfo;
         logger.INFO("Seçilen Urunun Fiyatı ve Açıklaması = "+productDescription);
+
         return this;
     }
     public productSelectPage printTxt(String productDescription) {
+
         String filename = "writtenFile.txt";
         FileWriter fw = null;
+
         try {
             fw = new FileWriter(filename, true);
             BufferedWriter bw = new BufferedWriter(fw);
@@ -54,10 +59,11 @@ public class productSelectPage extends basePage {
 
             pw.write(text);
             pw.write(lineSeparator); // bilgileri satır satır yazdırmak için kullanıldı.
-            logger.INFO("Urun açıklamaları writteFile isimli dosyaya yazdırıldı");
+            logger.INFO("Urun açıklamaları writtenFile isimli dosyaya yazdırıldı");
             pw.close();
+
         } catch (IOException e) {
-            logger.INFO("Urun açıklamaları writteFile isimli dosyaya yazdırılamadı !!!");
+            logger.INFO("Urun açıklamaları writtenFile isimli dosyaya yazdırılamadı !!!");
             e.printStackTrace();
         }
         return this;

@@ -12,8 +12,6 @@ import page.homePage;
 import page.productSelectPage;
 import page.searchPage;
 
-import java.io.IOException;
-
 import static page.productSelectPage.productDescription;
 import static page.searchPage.cellText;
 
@@ -34,7 +32,7 @@ public class beymenTest extends baseTest {
 
     }
 
-    @DisplayName("1")
+    @DisplayName("1") // Junit koşum sıralaması için kullanıldı
     @Test
    public void homePageTest() throws InterruptedException {
        try {
@@ -63,6 +61,7 @@ public class beymenTest extends baseTest {
            throw new RuntimeException(e);
        }
    }
+
    /*
     @DisplayName("2")
     @Test
