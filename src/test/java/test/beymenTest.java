@@ -24,6 +24,7 @@ public class beymenTest extends baseTest {
     searchPage searchpage;
     addBasketPage addbasketpage;
     productSelectPage productselectpage;
+
     @Before
     public void before(){
         homepage = new homePage(getWebDriver());
