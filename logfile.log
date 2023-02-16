@@ -1,0 +1,426 @@
+2023-02-15 11:56:20,359 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 14:18:15,394 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 14:19:20,871 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 14:19:20,874 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 14:20:17,371 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 14:20:43,698 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 14:20:45,542 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 15:18:37,698 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 15:18:37,714 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 15:18:37,714 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 15:26:11,049 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 15:26:11,060 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 15:26:11,061 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 15:26:42,498 INFO  [logger] excelden alinan veri : şort 
+2023-02-15 15:28:13,226 INFO  [logger] excelden alinan veri : gömlek 
+2023-02-15 15:56:44,499 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 15:56:44,538 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 15:56:44,540 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 15:56:46,635 INFO  [logger] excelden alinan veri : şort 
+2023-02-15 15:56:49,334 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-15 15:56:49,396 INFO  [logger] excelden alinan veri : gömlek 
+2023-02-15 15:56:51,627 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-15 16:19:37,724 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 16:19:37,770 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 16:19:37,771 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 16:19:39,293 INFO  [logger] excelden alinan veri : şortarama barına yazdırılıyor 
+2023-02-15 16:19:41,817 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-15 16:19:41,889 INFO  [logger] excelden alinan veri : gömlekarama barına yazdırılıyor 
+2023-02-15 16:19:44,284 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-15 16:27:01,565 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-15 16:27:06,999 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-15 16:27:07,048 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-15 16:27:11,310 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-15 16:27:40,290 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 16:27:40,299 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 16:27:40,299 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 16:27:40,384 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-15 16:27:45,171 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-15 16:27:45,206 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-15 16:27:49,350 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-15 17:23:26,469 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-15 17:23:31,160 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-15 17:23:31,246 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-15 17:23:35,400 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-15 17:24:20,338 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 17:24:20,347 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 17:24:20,347 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 17:28:45,172 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 17:28:45,181 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 17:28:45,182 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 17:37:20,728 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 17:37:20,741 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 17:37:20,742 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 17:37:22,331 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-15 17:37:26,925 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-15 17:37:26,979 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-15 17:37:31,131 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-15 20:32:52,559 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 20:32:52,571 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 20:32:52,572 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 20:32:54,156 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-15 20:32:58,687 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-15 20:32:58,743 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-15 20:33:02,901 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-15 20:33:02,905 INFO  [logger] Listedeki Urun Sayisi = 0 
+2023-02-15 20:42:23,062 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 20:42:23,073 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 20:42:23,074 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 20:42:24,631 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-15 20:42:29,132 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-15 20:42:29,176 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-15 20:42:33,320 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-15 20:57:39,318 INFO  [logger] Listedeki Urun Sayisi = 0 
+2023-02-15 20:58:08,390 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 20:58:08,403 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 20:58:08,404 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 20:58:09,809 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-15 20:58:14,300 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-15 20:58:14,358 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-15 20:58:18,583 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-15 20:58:53,145 INFO  [logger] Listedeki Urun Sayisi = 0 
+2023-02-15 21:03:44,246 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 21:03:44,263 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 21:03:44,264 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 21:03:45,830 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-15 21:03:50,325 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-15 21:03:50,382 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-15 21:03:54,541 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-15 21:16:04,959 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 21:16:04,971 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 21:16:04,971 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 21:16:06,258 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-15 21:16:10,717 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-15 21:16:10,761 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-15 21:16:14,896 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-15 21:16:14,899 INFO  [logger] Listedeki Urun Sayisi = 0 
+2023-02-15 21:21:07,954 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 21:21:07,964 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 21:21:07,965 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 21:21:09,278 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-15 21:21:13,824 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-15 21:21:13,872 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-15 21:21:18,061 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-15 21:21:18,069 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-15 21:21:18,069 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 27 
+2023-02-15 21:21:28,485 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-15 22:15:04,844 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 22:15:04,853 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 22:15:04,853 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 22:15:06,296 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-15 22:15:10,859 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-15 22:15:10,926 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-15 22:15:15,078 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-15 22:15:15,082 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-15 22:15:15,083 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 12 
+2023-02-15 22:15:27,264 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-15 22:15:28,309 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 699,00 TL---Comfort Fit Beyaz Gömlek 
+2023-02-15 22:15:28,310 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-15 22:19:34,927 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 22:19:34,937 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 22:19:34,938 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 22:19:36,136 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-15 22:19:40,729 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-15 22:19:40,782 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-15 22:19:44,970 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-15 22:19:44,974 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-15 22:19:44,974 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 27 
+2023-02-15 22:19:55,288 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-15 22:19:56,327 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 1.699,00 TL --- Mavi Boyfriend Oxford Gömlek 
+2023-02-15 22:19:56,328 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-15 22:26:21,358 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 22:26:21,374 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 22:26:21,375 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 22:26:22,801 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-15 22:26:27,230 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-15 22:26:27,274 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-15 22:26:31,418 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-15 22:26:31,424 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-15 22:26:31,425 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 40 
+2023-02-15 22:26:41,314 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-15 22:26:41,663 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 1.499,00 TL --- Slim Fit Mavi Oxford Gömlek 
+2023-02-15 22:26:41,664 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-15 22:27:23,851 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 22:27:23,861 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 22:27:23,862 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 22:27:25,156 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-15 22:27:29,687 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-15 22:27:29,749 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-15 22:27:33,923 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-15 22:27:33,928 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-15 22:27:33,928 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 45 
+2023-02-15 22:27:43,077 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-15 22:27:43,965 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 1.099,00 TL --- Mavi Uzun Twill Gömlek 
+2023-02-15 22:27:43,966 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-15 23:56:38,988 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-15 23:56:38,998 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-15 23:56:38,998 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-15 23:56:40,475 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-15 23:56:45,096 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-15 23:56:45,161 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-15 23:56:49,332 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-15 23:56:49,342 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-15 23:56:49,343 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 33 
+2023-02-15 23:57:02,625 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-15 23:57:03,887 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 3.199,00 TL --- Kahverengi Ekoseli Taşlı Cepli Dış Gömlek 
+2023-02-15 23:57:03,888 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-15 23:57:06,121 INFO  [logger] Sepete eklemek için beden seçimi yapıldı, Seçilen beden ölçüsü : M 
+2023-02-16 00:27:16,784 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 00:27:16,835 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 00:27:16,835 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 00:27:18,062 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 00:27:22,568 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 00:27:22,627 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 00:27:26,768 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 00:27:26,774 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 00:27:26,774 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 33 
+2023-02-16 00:27:35,688 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 00:27:36,840 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 3.199,00 TL --- Kahverengi Ekoseli Taşlı Cepli Dış Gömlek 
+2023-02-16 00:27:36,841 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 00:27:39,062 INFO  [logger] Sepete eklemek için beden seçimi yapıldı, Seçilen beden ölçüsü : M 
+2023-02-16 00:27:41,282 INFO  [logger] Urun sepete eklendi 
+2023-02-16 00:27:45,916 INFO  [logger] Sepete gidildi 
+2023-02-16 00:53:50,871 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 00:53:50,889 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 00:53:50,889 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 00:53:52,709 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 00:53:57,247 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 00:53:57,310 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 00:54:01,543 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 00:54:01,547 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 00:54:01,547 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 13 
+2023-02-16 00:54:14,779 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 00:54:16,000 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 2.199,00 TL --- Siyah Cep Detaylı Gömlek 
+2023-02-16 00:54:16,002 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 00:54:52,928 INFO  [logger] seçilebilen beden sayısı0 
+2023-02-16 00:55:12,809 ERROR [logger] Beden seçimi yapılamadı 
+2023-02-16 00:55:20,838 INFO  [logger] Urun sepete eklendi 
+2023-02-16 01:15:49,130 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 01:15:49,160 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 01:15:49,161 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 01:15:50,472 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 01:15:55,044 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 01:15:55,109 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 01:15:59,355 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 01:15:59,360 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 01:15:59,360 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 42 
+2023-02-16 01:16:10,218 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 01:16:11,317 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 1.199,00 TL --- Beyaz Kontrast Kuş Baskılı Poplin Gömlek 
+2023-02-16 01:16:11,318 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 01:16:11,624 INFO  [logger] Sepete eklemek için beden seçimi yapıldı, Seçilen beden ölçüsü : XS 
+2023-02-16 01:16:16,807 INFO  [logger] Urun sepete eklendi 
+2023-02-16 01:16:20,232 ERROR [logger] Sepete gidilemedi !! 
+2023-02-16 01:18:34,711 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 01:18:34,738 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 01:18:34,740 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 01:18:36,304 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 01:18:40,967 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 01:18:41,036 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 01:18:45,232 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 01:18:45,235 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 01:18:45,235 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 17 
+2023-02-16 01:19:04,313 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 01:19:04,963 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 999,00 TL --- Never Stop Thermal Yeşil Unisex Çocuk Ceket 
+2023-02-16 01:19:04,964 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 01:19:05,249 INFO  [logger] Sepete eklemek için beden seçimi yapıldı, Seçilen beden ölçüsü : XS 
+2023-02-16 01:19:10,490 INFO  [logger] Urun sepete eklendi 
+2023-02-16 01:19:32,047 INFO  [logger] Sepete gidildi 
+2023-02-16 01:26:19,323 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 01:26:19,335 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 01:26:19,336 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 01:26:20,733 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 01:26:25,301 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 01:26:25,377 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 01:26:29,685 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 01:26:29,692 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 01:26:29,693 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 18 
+2023-02-16 01:26:45,516 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 01:26:46,114 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 999,00 TL --- Never Stop Thermal Siyah Unisex Çocuk Ceket 
+2023-02-16 01:26:46,115 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 01:26:46,471 INFO  [logger] Sepete eklemek için beden seçimi yapıldı, Seçilen beden ölçüsü : XS 
+2023-02-16 01:26:51,692 INFO  [logger] Urun sepete eklendi 
+2023-02-16 01:27:02,526 INFO  [logger] Sepete gidildi 
+2023-02-16 01:29:31,998 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 01:29:32,009 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 01:29:32,009 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 01:29:33,267 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 01:29:37,829 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 01:29:37,899 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 01:29:42,071 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 01:29:42,076 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 01:29:42,076 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 22 
+2023-02-16 01:29:52,376 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 01:29:53,595 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 1.499,00 TL --- Slim Fit Koyu Mavi Oxford Gömlek 
+2023-02-16 01:29:53,596 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 01:29:57,939 ERROR [logger] Beden seçimi yapılamadı 
+2023-02-16 01:30:04,131 ERROR [logger] Urun sepete eklenemedi 
+2023-02-16 01:30:12,111 INFO  [logger] Sepete gidildi 
+2023-02-16 01:33:46,881 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 01:33:46,891 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 01:33:46,892 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 01:33:48,497 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 01:33:53,033 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 01:33:53,096 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 01:33:57,254 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 01:33:57,259 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 01:33:57,259 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 10 
+2023-02-16 01:34:08,210 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 01:34:09,445 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 1.799,00 TL --- Comfort Fit Haki Gömlek 
+2023-02-16 01:34:09,446 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 01:34:11,804 INFO  [logger] Sepete eklemek için beden seçimi yapıldı, Seçilen beden ölçüsü : S 
+2023-02-16 01:34:17,022 INFO  [logger] Urun sepete eklendi 
+2023-02-16 01:34:29,562 INFO  [logger] Sepete gidildi 
+2023-02-16 09:32:20,012 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 09:32:20,022 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 09:32:20,023 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 09:32:21,192 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 09:32:25,757 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 09:32:25,836 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 09:32:30,001 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 09:32:30,004 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 09:32:30,005 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 24 
+2023-02-16 09:32:42,937 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 09:32:43,174 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 949,00 TL --- Custom Fit Petrol Kadife Gömlek 
+2023-02-16 09:32:43,175 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 09:32:53,831 ERROR [logger] Beden seçimi yapılamadı 
+2023-02-16 09:33:00,027 ERROR [logger] Urun sepete eklenemedi 
+2023-02-16 09:33:10,863 INFO  [logger] Sepete gidildi 
+2023-02-16 09:37:25,883 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 09:37:25,893 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 09:37:25,894 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 09:37:27,404 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 09:37:31,842 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 09:37:31,907 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 09:37:36,093 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 09:37:36,100 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 09:37:36,101 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 33 
+2023-02-16 09:37:49,195 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 09:37:49,451 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 3.399,00 TL --- Oversize Kırık Beyaz Kürk Görünümlü Dış Gömlek 
+2023-02-16 09:37:49,452 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 09:38:33,029 INFO  [logger] Sepete eklemek için beden seçimi yapıldı, Seçilen beden ölçüsü : XS 
+2023-02-16 09:38:46,751 INFO  [logger] Urun sepete eklendi 
+2023-02-16 09:39:03,575 INFO  [logger] Sepete gidildi 
+2023-02-16 09:43:33,423 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 09:43:33,433 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 09:43:33,434 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 09:43:34,804 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 09:43:39,374 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 09:43:39,442 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 09:43:43,589 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 09:43:43,594 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 09:43:43,594 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 1 
+2023-02-16 09:44:16,291 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 09:44:16,593 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 1.499,00 TL --- Comfort Fit Beyaz Oxford Gömlek 
+2023-02-16 09:44:16,594 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 09:45:12,302 INFO  [logger] Sepete eklemek için beden seçimi yapıldı, Seçilen beden ölçüsü : XXL 
+2023-02-16 09:45:38,703 INFO  [logger] Urun sepete eklendi 
+2023-02-16 09:45:55,228 INFO  [logger] Sepete gidildi 
+2023-02-16 10:00:43,518 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 10:00:43,540 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 10:00:43,541 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 10:00:45,087 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 10:00:49,685 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 10:00:49,736 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 10:00:53,850 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 10:00:53,854 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 10:00:53,854 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 34 
+2023-02-16 10:01:40,547 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 10:01:40,925 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 1.399,00 TL --- Siyah Arı Taş Detaylı Gömlek 
+2023-02-16 10:01:40,925 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 10:01:55,284 ERROR [logger] Beden seçimi yapılamadı 
+2023-02-16 10:01:58,522 INFO  [logger] Urun sepete eklendi 
+2023-02-16 10:02:11,968 INFO  [logger] Sepete gidildi 
+2023-02-16 10:13:09,432 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 10:13:09,451 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 10:13:09,452 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 10:13:11,183 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 10:13:15,443 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 10:13:15,570 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 10:13:19,762 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 10:13:19,765 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 10:13:19,766 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 16 
+2023-02-16 10:14:29,204 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 10:14:29,489 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 999,00 TL --- Never Stop Thermal Yeşil Unisex Çocuk Ceket 
+2023-02-16 10:14:29,490 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 10:14:38,781 ERROR [logger] Beden seçimi yapılamadı 
+2023-02-16 10:14:41,999 INFO  [logger] Urun sepete eklendi 
+2023-02-16 10:14:55,129 INFO  [logger] Sepete gidildi 
+2023-02-16 10:22:03,712 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 10:22:03,723 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 10:22:03,724 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 10:22:05,226 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 10:22:09,677 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 10:22:09,724 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 10:22:13,835 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 10:22:13,839 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 10:22:13,839 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 19 
+2023-02-16 10:22:41,433 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 10:22:41,787 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 3.999,00 TL --- Lacivert Logo Detaylı Gömlek 
+2023-02-16 10:22:41,788 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 10:22:51,119 ERROR [logger] Beden seçimi yapılamadı 
+2023-02-16 10:23:05,988 ERROR [logger] Beden seçimi yapılamadı 
+2023-02-16 10:23:20,675 ERROR [logger] Beden seçimi yapılamadı 
+2023-02-16 10:23:23,901 INFO  [logger] Urun sepete eklendi 
+2023-02-16 10:23:48,117 INFO  [logger] Sepete gidildi 
+2023-02-16 10:23:51,187 INFO  [logger] sepetteki fiyatı :3.999,00 TL 
+2023-02-16 10:28:15,379 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 10:28:15,526 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 10:28:15,527 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 10:28:17,342 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 10:28:21,851 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 10:28:21,915 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 10:28:26,046 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 10:28:26,050 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 10:28:26,051 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 2 
+2023-02-16 10:28:59,771 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 10:29:00,109 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 799,00 TL --- Comfort Fit Mavi Oxford Gömlek 
+2023-02-16 10:29:00,110 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 10:29:09,470 ERROR [logger] Beden seçimi yapılamadı 
+2023-02-16 10:29:11,817 INFO  [logger] Sepete eklemek için beden seçimi yapıldı, Seçilen beden ölçüsü : L 
+2023-02-16 10:29:14,117 INFO  [logger] Sepete eklemek için beden seçimi yapıldı, Seçilen beden ölçüsü : M 
+2023-02-16 10:29:17,339 INFO  [logger] Urun sepete eklendi 
+2023-02-16 10:29:39,900 INFO  [logger] Sepete gidildi 
+2023-02-16 10:35:15,249 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 10:35:15,273 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 10:35:15,274 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 10:35:16,861 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 10:35:21,652 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 10:35:21,725 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 10:35:25,892 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 10:35:25,896 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 10:35:25,898 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 19 
+2023-02-16 10:35:44,044 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 10:35:44,377 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 3.999,00 TL --- Lacivert Logo Detaylı Gömlek 
+2023-02-16 10:35:44,377 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 10:35:53,675 ERROR [logger] Beden seçimi yapılamadı 
+2023-02-16 10:35:56,872 INFO  [logger] Urun sepete eklendi 
+2023-02-16 10:36:10,464 INFO  [logger] Sepete gidildi 
+2023-02-16 10:40:12,742 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 10:40:12,752 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 10:40:12,752 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 10:40:14,169 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 10:40:18,608 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 10:40:18,679 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 10:40:22,901 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 10:40:22,904 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 10:40:22,905 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 26 
+2023-02-16 10:40:57,454 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 10:40:57,759 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 1.699,00 TL --- Beyaz Boyfriend Oxford Gömlek 
+2023-02-16 10:40:57,760 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 10:41:07,117 ERROR [logger] Beden seçimi yapılamadı 
+2023-02-16 10:41:10,279 INFO  [logger] Urun sepete eklendi 
+2023-02-16 10:45:22,612 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 10:45:22,620 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 10:45:22,621 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 10:45:23,904 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 10:45:28,463 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 10:45:28,512 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 10:45:32,633 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 10:45:32,637 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 10:45:32,638 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 18 
+2023-02-16 10:46:15,583 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 10:46:16,010 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 1.199,00 TL --- Beyaz Klasik Poplin Gömlek 
+2023-02-16 10:46:16,011 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 10:46:30,667 ERROR [logger] Beden seçimi yapılamadı 
+2023-02-16 10:46:33,922 INFO  [logger] Urun sepete eklendi 
+2023-02-16 10:46:55,866 INFO  [logger] Sepete gidildi 
