@@ -424,3 +424,22 @@
 2023-02-16 10:46:30,667 ERROR [logger] Beden seçimi yapılamadı 
 2023-02-16 10:46:33,922 INFO  [logger] Urun sepete eklendi 
 2023-02-16 10:46:55,866 INFO  [logger] Sepete gidildi 
+2023-02-16 11:14:27,145 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 11:14:27,157 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 11:14:27,158 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 11:14:29,107 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 11:14:33,611 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 11:14:33,653 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 11:14:37,777 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 11:14:37,782 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 11:14:37,783 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 15 
+2023-02-16 11:14:45,748 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 11:14:46,858 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 1.899,00 TL --- Lacivert Düğmeli Yaka Logolu Gömlek 
+2023-02-16 11:14:46,858 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 11:15:01,761 ERROR [logger] Beden seçimi yapılamadı 
+2023-02-16 11:15:04,965 INFO  [logger] Urun sepete eklendi 
+2023-02-16 11:15:11,791 INFO  [logger] Sepete gidildi 
+2023-02-16 11:15:14,864 INFO  [logger] sepetteki fiyatı :1.899,00 TL 
+2023-02-16 11:15:17,880 INFO  [logger] liste fiyatı: null 
+2023-02-16 11:15:17,880 INFO  [logger] fiyatlar farklı 
+2023-02-16 11:15:17,880 INFO  [logger] Seçilen Urunun SEPET Fiyatı ve LISTE Fiyatı karşılaştırıldı ve aynı olduğu görüldü 

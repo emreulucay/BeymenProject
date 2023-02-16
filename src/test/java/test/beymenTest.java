@@ -53,7 +53,8 @@ public class beymenTest extends baseTest {
                    .SelectProductSize()
                    .addBasket()
                    .goToBasket()
-                   .verifyInfo();
+                   .verifyInfo()
+                   .quantitySelect();
 
        } catch (Exception e) {
            throw new RuntimeException(e);

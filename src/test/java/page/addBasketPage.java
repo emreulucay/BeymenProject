@@ -2,6 +2,9 @@ package page;
 import base.basePage;
 import locaters.locaters;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.Select;
+
 import static locaters.locaters.*;
 
 public class addBasketPage extends basePage {
@@ -83,4 +86,32 @@ public class addBasketPage extends basePage {
         }
         return this;
     }
+    public WebElement elementqty = driver.findElement(QTY_SELECT);
+    public WebElement elementqty2 = driver.findElement(QTY_SELECT_2);
+    public addBasketPage quantitySelect() throws InterruptedException {
+        Thread.sleep(3000);
+        Select select = new Select(elementqty);
+        try {
+            select.selectByIndex(1);
+            logger.INFO("Urun 2 adet seçildi");
+        }
+        catch (Exception e){
+            Thread.sleep(3000);
+            Select select2 = new Select(elementqty2);
+            try {
+                select2.selectByIndex(1);
+                logger.INFO("try-catch bloğu 1.catch çalıştı");
+                logger.INFO("Urun 2 adet seçildi");
+            }catch (Exception e2) {
+                select2.selectByIndex(0);
+                logger.INFO("Urun iki adet secilemedi stok yok, 1 adet olarak kaldı");
+            }
+        }
+        String elementquantity = elementqty.getAttribute("value");
+        Control(elementquantity.equals(2), "Urun adedi 2 olarak seçildi",
+                "stok olmadığı için 2 adet seçilemedi");
+
+        return this;
+    }
+
 }
