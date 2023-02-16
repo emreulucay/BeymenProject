@@ -30,9 +30,10 @@ public class locaters {
     public static final By ADD_BASKET = By.id("addBasket");
     public static final By BASKET = By.xpath("(//*[@class='o-header__userInfo--text'])[3]");
     public static final By PRICE_OF_BASKET = By.xpath("//*[@class='m-productPrice__salePrice']");
-    public static final By QTY_SELECT = By.xpath("//select[@class='a-selectControl -small']");
-    public static final By QTY_SELECT_2 = By.id("quantitySelect0-key-0");
+    public static  By QTY_SELECT = By.xpath("//select[@class='a-selectControl -small']");
+    public static  By QTY_SELECT_2 = By.id("quantitySelect0-key-0");
     public static final By DELETE_PRODUCT = By.id("removeCartItemBtn0-key-0");
+    public static final By IS_BASKET_EMPTY = By.xpath("//*[text()='Sepetinizde Ürün Bulunmamaktadır']");
 
 
 

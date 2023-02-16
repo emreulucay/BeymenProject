@@ -10,7 +10,7 @@ public class homePage extends basePage {
         super(driver);
     }
     public homePage click() throws InterruptedException {
-        Thread.sleep(5000);
+        Thread.sleep(4000);
         click(ACCEPT_COOKIES);
         try {
         Thread.sleep(3000);

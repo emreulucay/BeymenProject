@@ -8,8 +8,6 @@ import org.openqa.selenium.support.ui.Select;
 import static locaters.locaters.*;
 
 public class addBasketPage extends basePage {
-
-  //  public static int randomSize;
     locaters locater = new locaters();
     public addBasketPage(WebDriver driver) {
 
@@ -17,6 +15,7 @@ public class addBasketPage extends basePage {
     }
     static String productSizeOfCount;
     public addBasketPage SelectProductSize() throws InterruptedException {
+        hoverElement(SEARCH_AREA);
         for (int i = 1; i < 4; i++) {
 
             try {
@@ -70,46 +69,59 @@ public class addBasketPage extends basePage {
         return this;
     }
 
-    static String priceInfo,priceofbasket;
+    static String priceOfBasket;
     public addBasketPage verifyInfo() throws InterruptedException {
         Thread.sleep(3000);
-        priceofbasket = getText(PRICE_OF_BASKET);
-        logger.INFO("sepetteki fiyatı :" +priceofbasket);
+        priceOfBasket = getText(PRICE_OF_BASKET);
+        logger.INFO("Sepetteki fiyatı :" +priceOfBasket);
         Thread.sleep(3000);
-        logger.INFO("liste fiyatı: "+priceInfo);
+        logger.INFO("Liste fiyatı: "+productSelectPage.priceInfo);
         try {
-            Control(priceofbasket.equals(priceInfo),"fiyatlar aynı" ,"fiyatlar farklı");
-            logger.INFO("Seçilen Urunun SEPET Fiyatı ve LISTE Fiyatı karşılaştırıldı ve aynı olduğu görüldü");
+            Control(priceOfBasket.equals(productSelectPage.priceInfo),"fiyatlar aynı" ,"fiyatlar farklı");
         }
         catch (Exception e){
-            logger.ERROR("Seçilen Urunun SEPET Fiyatı ve LISTE Fiyatı karşılaştırıldı ve FARKLI olduğu görüldü");
+            logger.ERROR("Seçilen Urunun SEPET Fiyatı ve LISTE Fiyatı karşılaştırılamadı !!");
         }
         return this;
     }
-    public WebElement elementqty = driver.findElement(QTY_SELECT);
-    public WebElement elementqty2 = driver.findElement(QTY_SELECT_2);
+
     public addBasketPage quantitySelect() throws InterruptedException {
         Thread.sleep(3000);
-        Select select = new Select(elementqty);
+        WebElement elementQty = driver.findElement(QTY_SELECT);
+        Select select = new Select(elementQty);
         try {
             select.selectByIndex(1);
             logger.INFO("Urun 2 adet seçildi");
         }
         catch (Exception e){
             Thread.sleep(3000);
-            Select select2 = new Select(elementqty2);
+            WebElement elementQty2 = driver.findElement(QTY_SELECT_2);
+            Select select2 = new Select(elementQty2);
             try {
                 select2.selectByIndex(1);
-                logger.INFO("try-catch bloğu 1.catch çalıştı");
+                logger.INFO("try-catch bloğu, 1.catch çalıştı");
                 logger.INFO("Urun 2 adet seçildi");
             }catch (Exception e2) {
                 select2.selectByIndex(0);
                 logger.INFO("Urun iki adet secilemedi stok yok, 1 adet olarak kaldı");
             }
         }
-        String elementquantity = elementqty.getAttribute("value");
-        Control(elementquantity.equals(2), "Urun adedi 2 olarak seçildi",
-                "stok olmadığı için 2 adet seçilemedi");
+        String elementQuantity = elementQty.getAttribute("value");
+        Control(elementQuantity.equals("2"), "Urunün 2 adet olarak seçildiği kontrol edildi ",
+                "Adet kontrolü yapıldı: 1 adet -stok olmadığı için 2 adet seçilemedi");
+
+
+        return this;
+    }
+    public addBasketPage cleanAndControlBasket(){
+
+        click(DELETE_PRODUCT);
+        WebElement emptyBasket = driver.findElement(IS_BASKET_EMPTY);
+        if (emptyBasket.isDisplayed()) {
+            logger.INFO("Sepet Boşaltıldığı kontrol edildi");
+        } else {
+            logger.INFO("Sepetteki ürün silinemedi");
+        }
 
         return this;
     }

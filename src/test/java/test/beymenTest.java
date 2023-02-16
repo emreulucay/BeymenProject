@@ -28,8 +28,9 @@ public class beymenTest extends baseTest {
     public void before(){
         homepage = new homePage(getWebDriver());
         searchpage = new searchPage(getWebDriver());
-        addbasketpage = new addBasketPage(getWebDriver());
         productselectpage = new productSelectPage(getWebDriver());
+        addbasketpage = new addBasketPage(getWebDriver());
+
     }
 
     @DisplayName("1")
@@ -54,7 +55,8 @@ public class beymenTest extends baseTest {
                    .addBasket()
                    .goToBasket()
                    .verifyInfo()
-                   .quantitySelect();
+                   .quantitySelect()
+                   .cleanAndControlBasket();
 
        } catch (Exception e) {
            throw new RuntimeException(e);

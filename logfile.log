@@ -443,3 +443,139 @@
 2023-02-16 11:15:17,880 INFO  [logger] liste fiyatı: null 
 2023-02-16 11:15:17,880 INFO  [logger] fiyatlar farklı 
 2023-02-16 11:15:17,880 INFO  [logger] Seçilen Urunun SEPET Fiyatı ve LISTE Fiyatı karşılaştırıldı ve aynı olduğu görüldü 
+2023-02-16 12:44:48,714 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 12:44:48,727 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 12:44:48,728 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 12:44:50,150 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 12:44:54,719 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 12:44:54,775 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 12:44:58,907 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 12:44:58,912 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 12:44:58,913 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 15 
+2023-02-16 12:45:07,275 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 12:45:08,365 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 1.899,00 TL --- Lacivert Düğmeli Yaka Logolu Gömlek 
+2023-02-16 12:45:08,365 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 12:45:19,092 ERROR [logger] Beden seçimi yapılamadı 
+2023-02-16 12:45:22,346 INFO  [logger] Urun sepete eklendi 
+2023-02-16 12:45:29,364 INFO  [logger] Sepete gidildi 
+2023-02-16 12:48:32,814 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 12:48:32,838 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 12:48:32,841 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 12:48:34,146 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 12:48:38,844 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 12:48:38,903 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 12:48:43,096 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 12:48:43,099 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 12:48:43,100 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 28 
+2023-02-16 12:48:51,481 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 12:48:53,039 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 1.649,00 TL --- Neon Sarı Zebra Desenli Keçe Dış Gömlek 
+2023-02-16 12:48:53,040 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 12:48:55,726 INFO  [logger] Sepete eklemek için beden seçimi yapıldı, Seçilen beden ölçüsü : M 
+2023-02-16 12:48:58,914 INFO  [logger] Urun sepete eklendi 
+2023-02-16 12:49:05,674 INFO  [logger] Sepete gidildi 
+2023-02-16 12:49:08,780 INFO  [logger] sepetteki fiyatı :1.649,00 TL 
+2023-02-16 12:49:11,791 INFO  [logger] liste fiyatı: null 
+2023-02-16 12:49:11,791 INFO  [logger] fiyatlar farklı 
+2023-02-16 12:49:11,791 INFO  [logger] Seçilen Urunun SEPET Fiyatı ve LISTE Fiyatı karşılaştırıldı ve aynı olduğu görüldü 
+2023-02-16 12:50:28,152 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 12:50:28,173 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 12:50:28,174 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 12:50:30,138 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 12:50:34,636 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 12:50:34,686 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 12:50:38,894 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 12:50:38,901 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 12:50:38,901 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 25 
+2023-02-16 12:50:46,893 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 12:50:48,193 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 4.199,00 TL --- Siyah Sırtı Yıldız İşlemeli Yün Dış Gömlek 
+2023-02-16 12:50:48,196 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 12:51:03,711 ERROR [logger] Beden seçimi yapılamadı 
+2023-02-16 12:51:06,922 INFO  [logger] Urun sepete eklendi 
+2023-02-16 12:51:17,475 INFO  [logger] Sepete gidildi 
+2023-02-16 12:51:20,547 INFO  [logger] sepetteki fiyatı :4.199,00 TL 
+2023-02-16 12:51:23,554 INFO  [logger] liste fiyatı: null 
+2023-02-16 12:51:23,555 INFO  [logger] fiyatlar farklı 
+2023-02-16 12:51:23,556 INFO  [logger] Seçilen Urunun SEPET Fiyatı ve LISTE Fiyatı karşılaştırıldı ve aynı olduğu görüldü 
+2023-02-16 12:53:46,140 INFO  [logger] Urun iki adet secilemedi stok yok, 1 adet olarak kaldı 
+2023-02-16 13:10:53,002 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 13:10:53,017 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 13:10:53,018 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 13:10:54,197 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 13:10:58,633 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 13:10:58,696 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 13:11:02,886 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 13:11:02,891 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 13:11:02,892 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 35 
+2023-02-16 13:11:10,634 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 13:11:11,837 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 1.399,00 TL --- Siyah Arı Taş Detaylı Gömlek 
+2023-02-16 13:11:11,838 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 13:11:14,299 INFO  [logger] Sepete eklemek için beden seçimi yapıldı, Seçilen beden ölçüsü : M 
+2023-02-16 13:11:17,469 INFO  [logger] Urun sepete eklendi 
+2023-02-16 13:11:25,997 INFO  [logger] Sepete gidildi 
+2023-02-16 13:11:29,067 INFO  [logger] sepetteki fiyatı :1.399,00 TL 
+2023-02-16 13:11:32,071 INFO  [logger] liste fiyatı: null 
+2023-02-16 13:11:32,072 INFO  [logger] fiyatlar farklı 
+2023-02-16 13:11:32,072 INFO  [logger] Seçilen Urunun SEPET Fiyatı ve LISTE Fiyatı karşılaştırıldı ve aynı olduğu görüldü 
+2023-02-16 13:11:35,309 INFO  [logger] Urun 2 adet seçildi 
+2023-02-16 13:11:35,369 INFO  [logger] stok olmadığı için 2 adet seçilemedi 
+2023-02-16 13:23:56,393 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 13:23:56,404 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 13:23:56,405 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 13:23:57,684 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 13:24:02,175 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 13:24:02,230 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 13:24:06,386 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 13:24:06,391 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 13:24:06,392 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 30 
+2023-02-16 13:24:14,564 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 13:24:15,955 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 2.299,00 TL --- DIŞ GÖMLEK 
+2023-02-16 13:24:15,955 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 13:24:18,603 INFO  [logger] Sepete eklemek için beden seçimi yapıldı, Seçilen beden ölçüsü : 36 
+2023-02-16 13:24:21,811 INFO  [logger] Urun sepete eklendi 
+2023-02-16 13:24:30,409 INFO  [logger] Sepete gidildi 
+2023-02-16 13:24:33,486 INFO  [logger] sepetteki fiyatı :2.299,00 TL 
+2023-02-16 13:24:36,496 INFO  [logger] liste fiyatı: null 
+2023-02-16 13:24:36,496 INFO  [logger] fiyatlar farklı 
+2023-02-16 13:24:39,696 INFO  [logger] Urun 2 adet seçildi 
+2023-02-16 13:24:39,718 INFO  [logger] Urun adedi 2 olarak seçildi 
+2023-02-16 13:30:11,042 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 13:30:11,058 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 13:30:11,059 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 13:30:12,683 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 13:30:17,142 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 13:30:17,212 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 13:30:21,447 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 13:30:21,453 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 13:30:21,454 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 37 
+2023-02-16 13:30:29,793 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 13:30:30,943 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 1.499,00 TL --- Slim Fit Koyu Mavi Oxford Gömlek 
+2023-02-16 13:30:30,944 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 13:30:46,367 ERROR [logger] Beden seçimi yapılamadı 
+2023-02-16 13:30:49,566 INFO  [logger] Urun sepete eklendi 
+2023-02-16 13:30:57,942 INFO  [logger] Sepete gidildi 
+2023-02-16 13:31:39,765 INFO  [logger] Sepetteki fiyatı :1.499,00 TL 
+2023-02-16 13:32:00,579 INFO  [logger] Liste fiyatı: 1.499,00 TL 
+2023-02-16 13:32:02,174 INFO  [logger] fiyatlar aynı 
+2023-02-16 13:32:36,272 INFO  [logger] Urun 2 adet seçildi 
+2023-02-16 13:32:56,576 INFO  [logger] Urunün 2 adet olarak seçildiği kontrol edildi seçildi 
+2023-02-16 13:34:43,062 INFO  [logger] ÇEREZLER KABUL EDİLDİ VE CİNSİYET SEÇİMİ YAPILDI 
+2023-02-16 13:34:43,074 INFO  [logger] URL Bilgisi : https://www.beymen.com/ 
+2023-02-16 13:34:43,075 INFO  [logger] Anasayfa kontrolü sağlandi 
+2023-02-16 13:34:44,498 INFO  [logger] excelden alinan veri : şort arama barına yazdırılıyor 
+2023-02-16 13:34:49,016 INFO  [logger] Şort kelimesi silindi, gömlek kelimesi yazılacak 
+2023-02-16 13:34:49,061 INFO  [logger] excelden alinan veri : gömlek arama barına yazdırılıyor 
+2023-02-16 13:34:53,197 INFO  [logger] Entera basılıp istenen arama yapıldı. 
+2023-02-16 13:34:53,206 INFO  [logger] Listedeki Urun Sayisi = 48 
+2023-02-16 13:34:53,206 INFO  [logger] Listeden rastgele seçilecek ürün sıra no = 23 
+2023-02-16 13:35:00,632 INFO  [logger] Listeden rastgele seçilen ürüne tıklandı. 
+2023-02-16 13:35:01,891 INFO  [logger] Seçilen Urunun Fiyatı ve Açıklaması = 3.499,00 TL --- Fuşya Büyük Ekoseli Yün Keçe Dış Gömlek 
+2023-02-16 13:35:01,892 INFO  [logger] Urun açıklamaları writteFile isimli dosyaya yazdırıldı 
+2023-02-16 13:35:04,478 INFO  [logger] Sepete eklemek için beden seçimi yapıldı, Seçilen beden ölçüsü : M 
+2023-02-16 13:35:07,670 INFO  [logger] Urun sepete eklendi 
+2023-02-16 13:35:16,132 INFO  [logger] Sepete gidildi 
+2023-02-16 13:35:19,206 INFO  [logger] Sepetteki fiyatı :3.499,00 TL 
+2023-02-16 13:35:22,212 INFO  [logger] Liste fiyatı: 3.499,00 TL 
+2023-02-16 13:35:22,212 INFO  [logger] fiyatlar aynı 
+2023-02-16 13:35:25,437 INFO  [logger] Urun 2 adet seçildi 
+2023-02-16 13:35:25,456 INFO  [logger] Urunün 2 adet olarak seçildiği kontrol edildi  
+2023-02-16 13:35:50,170 INFO  [logger] Sepet Boşaltıldı 
